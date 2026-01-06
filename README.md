@@ -1,7 +1,7 @@
 # Netflix Originals — What Makes a “Hit”?
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="180"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUeFcVoKnVzjc7ZNXFsSlogsT_680JrAvyLQ&s" width="180"/>
 </p>
 
 This project analyzes Netflix Original TV series using publicly available data from **TMDb** to examine structural patterns associated with high-performing titles (“hits”).
