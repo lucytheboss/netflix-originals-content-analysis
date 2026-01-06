@@ -1,8 +1,9 @@
-# Netflix Originals — What Makes a “Hit”?
-
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUeFcVoKnVzjc7ZNXFsSlogsT_680JrAvyLQ&s" width="180"/>
+  <img src="assets/netflix_logo.png"/>
 </p>
+
+
+# Netflix Originals — What Makes a “Hit”?
 
 This project analyzes Netflix Original TV series using publicly available data from **TMDb** to examine structural patterns associated with high-performing titles (“hits”).
 The goal is **analytical understanding and validation**, not production-level prediction.
